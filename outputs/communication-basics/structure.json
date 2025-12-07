@@ -1,0 +1,16 @@
+{
+  "modules": [
+    {
+      "week": 1,
+      "title": "Foundations of Communication",
+      "units": []
+    },
+    {
+      "week": 2,
+      "title": "Applied Communication Skills",
+      "units": []
+    }
+  ],
+  "total_weeks": 2,
+  "total_units": 0
+}

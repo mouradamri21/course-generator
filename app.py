@@ -127,7 +127,7 @@ if st.session_state.generation_step == "input":
             elif not API_KEY:
                 st.error("Please configure your OpenRouter API key in .env")
             else:
-                                st.session_state.title = title
+                st.session_state.title = title
                 st.session_state.description = description
                 st.session_state.language = language
                 st.session_state.depth = depth
